@@ -7,3 +7,12 @@ let num = 1865;
 if (num >= 1801 && num <=1900) console.log("19");
 else console.log("NO19")
 ------------------------------------------------------
+  let num = 1465; 
+if (num >= 1801 && num <=1900) console.log("19");
+if (num >= 1701 && num <=1800) console.log("18");
+if (num >= 1601 && num <=1700) console.log("17");
+if (num >= 1501 && num <=1600) console.log("16");
+if (num >= 1401 && num <=1500) console.log("15");
+if (num >= 1301 && num <=1400) console.log("14");
+if (num >= 1201 && num <=1300) console.log("12");
+if (num >= 1101 && num <=1400) console.log("11");
