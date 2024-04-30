@@ -5,10 +5,10 @@ const outside = ['Aмфибрахий'];
 queue.splice(queue.indexOf('Иван'), 1);
 queue.splice(queue.indexOf('Даша'), 1);
 
-// Добавление 'Амфибрахий' в очередь
+// Добавление 'Амфибрахий'
 queue.push('Амфибрахий');
 
-
+// меняем массив outside
 outside.splice(outside.indexOf('Aмфибрахий'), 1);
 outside.push ('Иван', 'Даша');
 
